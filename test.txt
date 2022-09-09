@@ -1,0 +1,2 @@
+testing if git ignore is working
+If you see this file it means its working
